@@ -8,6 +8,15 @@ In this setup, a **Sender** network observes two images and sends a one-bit mess
 
 ---
 
+## 🔗 Run the Notebook on Colab
+
+You can explore and run the full implementation directly in Google Colab:  
+📎 **[Click here to open the notebook](https://colab.research.google.com/drive/1gx0YAiKesAtxL0bt6AelI2GYHbWU61mi?usp=sharing)**
+
+> No setup needed — just open the link and run the cells! ⚡
+
+---
+
 ## 📌 Project Highlights
 
 - ✅ Trained a **Sender** and a **Receiver** model on random pairs of CIFAR-10 images
